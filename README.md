@@ -26,5 +26,5 @@ $ helm382 template . | grep port
               port: http
 ```
 
-As we can see, the imported values is ommited in this helm version.
+As we can see, the imported values are ommited in this helm version.
 
